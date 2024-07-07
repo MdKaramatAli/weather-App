@@ -10,4 +10,4 @@ With a user-friendly interface and accurate data, you can quickly check the curr
 
 
 ## Take a over-view  
-[Weather App} (https://weather-app-lac-sigma.vercel.app/).
+[Weather App] (https://weather-app-lac-sigma.vercel.app/).
