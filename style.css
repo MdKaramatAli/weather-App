@@ -34,7 +34,7 @@ img{
         height: 37rem;
         background-image: url("main.jpg");
         filter: blur(4px);
-        margin: 6.5rem auto;
+        margin: 4rem auto;
         position: relative;
         border-radius: 1rem;
     }
@@ -43,7 +43,7 @@ img{
         height: 33rem;
         background-color: transparent;
         position: absolute;
-        top: 25rem;
+        top: 22.5rem;
         left: 50%;
         transform: translate(-50%, -50%);
         border-radius: 1rem;
@@ -80,7 +80,7 @@ img{
     
     /* weather section */
     .weather_section{
-        width: 18rem;
+        width: 23rem;
         height: 18rem;
         margin: 2.5rem auto 1rem;
         display: flex;
@@ -179,7 +179,7 @@ img{
     
     /* weather section */
     .weather_section{
-        width: 15rem;
+        width: 20rem;
         height: 15rem;
         margin: 2.5rem auto 1rem;
         display: flex;
